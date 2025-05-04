@@ -1,0 +1,16 @@
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+
+# Virtualenv
+venv/
+
+# Secrets
+.env
+
+# FAISS index files
+data/*.faiss
+
+# OS artifacts
+.DS_Store
